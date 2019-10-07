@@ -45,6 +45,7 @@ public class AddingMachine {
 		
 	/*
 	 * prints the history of transactions
+	 * @return the calculations
 	 */
 	public String toString () 
 	{
