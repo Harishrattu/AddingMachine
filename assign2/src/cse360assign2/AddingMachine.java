@@ -52,7 +52,12 @@ public class AddingMachine {
 		return "0" + output;
 	}
 
-	public void clear() {
-	
+	/*
+	 * set total to 0 and history to empty
+	 */
+	public void clear() 
+	{
+		total = 0;
+		output = "";
 	}
 }
