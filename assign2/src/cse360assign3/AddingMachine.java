@@ -4,7 +4,7 @@
  * URL: https://github.com/Harishrattu/AddingMachine.git
  */
 
-package cse360assign2;
+package cse360assign3;
 
 public class AddingMachine {
 
